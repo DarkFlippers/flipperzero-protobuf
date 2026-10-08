@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.30]
+### Added
+- Storage: offset and size in ReadRequest, ranged flag in ReadResponse
+
 ## [0.29]
 ### Added
 - Network: HTTP requests and WebSocket connection API
